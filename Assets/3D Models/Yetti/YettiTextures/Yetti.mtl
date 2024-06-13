@@ -1,0 +1,111 @@
+# MTL file - created by a modified js OBJExporter
+
+newmtl Wolf3D_Eye
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Wolf3D_Eye.png
+
+newmtl Wolf3D_Skin
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.699999988079071
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Wolf3D_Skin.png
+
+newmtl Wolf3D_Teeth
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Wolf3D_Teeth.png
+
+newmtl Wolf3D_Hair
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.7909091114997864
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Wolf3D_Hair.png
+norm normalMap4.png
+
+newmtl Wolf3D_Glasses
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 1 1 1
+map_Kd Wolf3D_Glasses.png
+map_Ke Wolf3D_Glasses.png
+
+newmtl Wolf3D_Outfit_Bottom
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Wolf3D_Outfit_Bottom.png
+map_Pm metalnessMap6.png
+map_Pr metalnessMap6.png
+norm normalMap6.png
+
+newmtl Wolf3D_Outfit_Footwear
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Wolf3D_Outfit_Footwear.png
+map_Pm metalnessMap7.png
+map_Pr metalnessMap7.png
+norm normalMap7.png
+
+newmtl Wolf3D_Outfit_Top
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Wolf3D_Outfit_Top.png
+map_Pm metalnessMap8.png
+map_Pr metalnessMap8.png
+norm normalMap8.png
